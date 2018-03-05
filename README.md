@@ -5,9 +5,6 @@
 
 ## Usage
 
-This is a plugin for the [remark markdown processor](http://remark.js.org/).
-
-
 Input:
 ```md
 ![A PNG](./foo.png)
